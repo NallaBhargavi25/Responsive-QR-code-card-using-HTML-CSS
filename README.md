@@ -27,8 +27,8 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
 
 ### 🔗 Links
 
-- Solution URL: [GitHub Repo](https://github.com/NallaBhargavi25/https://github.com/NallaBhargavi25/Responsive-QR-code-card-using-HTML-CSS/tree/main)
-- Live Site URL: [Live Preview](https://nallabhargavi25.github.io/qr-code-component/)
+- Solution URL: [GitHub Repo](https://github.com/NallaBhargavi25/Responsive-QR-code-card-using-HTML-CSS.git)
+- Live Site URL: [Live Preview](https://nallabhargavi25.github.io/Responsive-QR-code-card-using-HTML-CSS/)
 
 ---
 
